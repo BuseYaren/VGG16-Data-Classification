@@ -11,4 +11,4 @@ vgg.build(images)
 ```
  ❗️ The `images` is a tensor with shape `[None, 224, 224, 3]`. 
 
-A view from the project: ![VGG16 Model](Model.png "VGG16")
+![VGG16 Model](Model.png "VGG16")
